@@ -58,7 +58,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 10 </li>
-  	   <li><b>Browser: </b> Chrome Web Browser</li>
+  	   <li><b>Browser: </b> Brave Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode, Intellij, NetBeans</li>
 	    <br/>
 	</ul>
