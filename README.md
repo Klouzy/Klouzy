@@ -19,7 +19,7 @@
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.svgrepo.com/show/452234/java.svg"  alt="java" width="40" height="40" /></a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353925/javascript.svg"  alt="javascript" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331738/mysql-database.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/452210/git.svg"  alt="git" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg"  alt="vscode" width="40" height="40" /></a>
