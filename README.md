@@ -6,10 +6,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Minecraft plugins.**
-- 🌱 I’m currently learning **Python.**
-- 👯 I’m looking to collaborate on **Java and Web Projects.**
-- 💬 Ask me about **Java, HTML and CSS.**
+- 🌱 I’m currently learning **Javascript.**
+- 👯 I’m looking to collaborate on **Web Projects.**
+- 💬 Ask me about **HTML and CSS.**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&theme=radical&hide_border=true"/>
