@@ -28,26 +28,11 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<details>
-  <summary>📊 <b>Github Stats</b></summary>
- <br />
- <p align="center">
+<p align="center">
   <a href="https://github.com/abhinandanraj">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&layout=compact&theme=radical&langs_count=8" />
   </a>
  </p>
-</details>
-
-<details>
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows 10 </li>
-  	   <li><b>Browser: </b> Brave Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode, Intellij, NetBeans</li>
-	    <br/>
-	</ul>
-</details>
