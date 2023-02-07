@@ -29,7 +29,7 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
+  <summary>📊 <b>Github Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://github.com/abhinandanraj">
@@ -40,17 +40,6 @@
   </a>
  </p>
 </details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Klouzy&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
-
 
 <details>
   <br />
