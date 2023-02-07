@@ -32,7 +32,10 @@
   <a>
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a>
+</p>
+<p align="center">
+   <a>
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&layout=compact&theme=radical&langs_count=6" />
   </a>
- </p>
+</p>
+ 
