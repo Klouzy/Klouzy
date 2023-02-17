@@ -11,7 +11,7 @@
 - 🌱 Fun fact: Water isn't wet.
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
