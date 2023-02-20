@@ -6,27 +6,23 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 👯 I’m looking to collaborate on **Web Projects.**
-- 💬 Ask me about **HTML and CSS.**
-- 🌱 Fun fact: Water isn't wet.
+- 👯 I’m looking to collaborate on **Web Projects**.
+- 💬 Ask me about **HTML, CSS and Javascript.**
+- 🌱 I want to learn **Python** in future maybe.
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&hide_border=true"/>
 </p>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Programming Languages:**
 
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353925/javascript.svg"  alt="javascript" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331738/mysql-database.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/452210/git.svg"  alt="git" width="40" height="40" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg"  alt="vscode" width="40" height="40" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg"  alt="intellij" width="40" height="40" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Stats:**
 
 <p align="center">
   <a>
