@@ -11,7 +11,7 @@
 - 🌱 I want to learn **Python** in future maybe.
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&theme=codeSTACKr&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Programming Languages:**
@@ -32,7 +32,7 @@
 </p>
 <p align="center">
    <a>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&layout=compact&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&theme=codeSTACKr&layout=compact&langs_count=6" />
   </a>
 </p>
  
