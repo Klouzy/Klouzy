@@ -19,7 +19,6 @@
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg"  alt="tailwind" width="44" /></a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353925/javascript.svg"  alt="javascript" width="38" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg"  alt="react" width="40" /></a>
 </p>
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a>
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&show_icons=true&locale=en">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&theme=codeSTACKr&show_icons=true&locale=en">
   </a>
 </p>
 <p align="center">
