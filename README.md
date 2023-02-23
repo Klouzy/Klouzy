@@ -20,6 +20,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353925/javascript.svg"  alt="javascript" width="40" height="40" /></a>
+   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg"  alt="tailwind" width="40" height="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Stats:**
