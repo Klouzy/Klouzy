@@ -27,12 +27,12 @@
 
 <p align="center">
   <a>
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&theme=dracula&show_icons=true&locale=en">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Klouzy&theme=dracula&show_icons=true&locale=en&hide_border=true">
   </a>
 </p>
 <p align="center">
    <a>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&theme=dracula&layout=compact&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Klouzy&theme=dracula&layout=compact&langs_count=6&hide_border=true" />
   </a>
 </p>
  
