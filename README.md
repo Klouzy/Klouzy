@@ -7,8 +7,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 👯 I’m looking to collaborate on **Web Projects**.
-- 💬 Ask me about **HTML, CSS and Javascript.**
-- 🌱 I want to learn **Python** in future maybe.
+- 💬 Ask me about **HTML, CSS** and **Javascript**.
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Klouzy&theme=dracula&hide_border=true"/>
